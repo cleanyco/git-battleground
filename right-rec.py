@@ -8,7 +8,7 @@ def count_h(a, b, n):
 def integral_func(curX):
     return 1 / math.log(curX)
 
-
+# вот этот комментарий я вставил
 n = float(input('Добрый день, введите количество отрезков n: '))
 a = float(input('Введите границу интегрирования a: '))
 b = float(input('Введите границу интегрирования b: '))
