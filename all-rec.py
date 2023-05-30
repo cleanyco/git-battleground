@@ -41,6 +41,7 @@ sum = 0
 for i in range(len(x)):
     sum += integral_func((x[i]) + h/2) * h
 
+    SUPERB BIG GLITCH MORE MONEY
 
 print('Средних треугольников: ')
 print(round(sum, 3))
